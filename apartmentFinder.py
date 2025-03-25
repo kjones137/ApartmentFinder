@@ -8,9 +8,9 @@ url = "https://www.theblueground.com/sp?placeId=ct-eyJ0eXBlIjoiY2l0eSIsImxhdCI6M
 
 # Proxy configuration with login and password
 proxy_host = 'gw.dataimpulse.com'
-proxy_port = 823
-proxy_login = 'bcbe2708f411937425ee'
-proxy_password = '2aa0320b266a3c90'
+proxy_port = 515
+proxy_login = ''
+proxy_password = ''
 proxy = f'http://{proxy_login}:{proxy_password}@{proxy_host}:{proxy_port}'
 
 proxies = {
